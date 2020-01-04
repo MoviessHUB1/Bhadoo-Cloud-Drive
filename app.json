@@ -1,21 +1,21 @@
 {
-    "name": "SaveToGoogleDrive - Bhadoo Cloud",
+    "name": "G-Drive Uploader-MoviessHUB.tk",
     "description": "App to Upload files directly to Google Drive",
-    "repository": "https://github.com/ParveenBhadooOfficial/SaveToGoogleDrive",
-    "logo": "https://raw.githubusercontent.com/ParveenBhadooOfficial/SaveToGoogleDrive/master/src/main/resources/static/img/savetodrive.png",
+    "repository": "https://github.com/MoviessHUB1/Bhadoo-Cloud-Drive",
+    "logo": "https://raw.githubusercontent.com/ParveenBhadooOfficial/SaveToGoogleDrive/master/src/main/resources/static/img/Movieshub 1 white for WP sq.jpg",
     "keywords": ["google","drive","bhadoo","bhadoo cloud"],
     "env": {
         "client_id": {
             "description": "Client ID from Google Console (http://bit.ly/37ED7dv)",
-            "value": "58094879805-jdsomen2duv9ilj81fcu1qkag5todele.apps.googleusercontent.com"
+            "value": "588093848182-j73ie5cas2cvdbqcs242og209ca59s1r.apps.googleusercontent.com"
         },
         "client_secret": {
             "description": "Client Secret from Google Console (http://bit.ly/37ED7dv)",
-            "value": "EG0OYdjcllAGJ81eEMpQ3vW6"
+            "value": "H2f31sAlBYSQpN4bNX61WOew"
         },
         "redirect_uri": {
             "description": "Your App URL eg. https://app.example.com/api/oauth/google/callback (Replace this with your own)",
-            "value": "https://bhadooclouduploader.herokuapp.com/api/oauth/google/callback"
+            "value": "https://g-drive-uploader.herokuapp.com/api/oauth/google/callback"
         }
     }
 }
